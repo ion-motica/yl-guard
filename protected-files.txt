@@ -1,4 +1,3 @@
 js/motor-optiuni-control-panel.js
 js/cp-shell.js
 js/cp-registry.js
-sdfsdfds

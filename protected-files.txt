@@ -1,4 +1,4 @@
 js/motor-optiuni-control-panel.js
 js/cp-shell.js
-js/cp-registry.js
+#js/cp-registry.js
 .github/workflows/yl-guard.yml
